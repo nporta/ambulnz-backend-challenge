@@ -1,6 +1,7 @@
 # Ambulnz Backend Challenge
 
-This is a solution to the [Ambulnz Backend Challenge](https://github.com/AmbulnzLLC/fullstack-challenge/tree/master/backend).
+This is a solution to the [Ambulnz Backend Challenge](https://github.com/AmbulnzLLC/fullstack-challenge/tree/master/backend).  
+If you want to see the solution using Typescript please check [here](https://github.com/nporta/ambulnz-challenge-typescript).
 
 How to run
 -------------
